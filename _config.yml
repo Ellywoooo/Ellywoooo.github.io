@@ -113,13 +113,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Elly Woo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Student of Master of Software engineering"
+  location         : "New Zealand, Rotorua"
   email            :
   links:
-    - label: "Email"
+    - label: "wjwj0210@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
